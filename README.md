@@ -8,7 +8,7 @@
   <li> Phần mềm giúp khách hàng đưa ra thông tin cũng như yêu cầu được lưu trữ bảo mật và được đáp ứng nhu cầu về dịch vụ một cách nhanh chóng và tối ưu nhất </li>
   
   </ul>
-  ** OBJECTIVE:** Làm 9 chức năng
+ **OBJECTIVE:** Làm 9 chức năng
   <ul>
   <li>Check in cho khách hàng </li>
   <li> Check out cho khách hàng </li>
