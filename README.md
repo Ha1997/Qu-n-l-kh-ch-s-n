@@ -6,8 +6,8 @@
   <li>Phần mềm giúp quản lí của khách sạn đăng nhập vào và dễ dàng thêm sửa xóa thông tin khách sạn, khách đặt phòng cũng như xem các hóa đơn của khách sạn</li>
   <li> Phần mềm giúp nhân viên bán hàng (Saller): giao dịch với khách hàng (Client) qua điện thoại để đặt chỗ (Book a room) hoặc hủy đặt chỗ (Cancel a booking) </li>
   <li> Phần mềm giúp khách hàng đưa ra thông tin cũng như yêu cầu được lưu trữ bảo mật và được đáp ứng nhu cầu về dịch vụ một cách nhanh chóng và tối ưu nhất </li>
-  
-
+ </ul> 
+<ul>
  **OBJECTIVE: ** Làm 9 chức năng
 
   <li>Check in cho khách hàng </li>
