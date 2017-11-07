@@ -7,9 +7,9 @@
   <li> Phần mềm giúp nhân viên bán hàng (Saller): giao dịch với khách hàng (Client) qua điện thoại để đặt chỗ (Book a room) hoặc hủy đặt chỗ (Cancel a booking) </li>
   <li> Phần mềm giúp khách hàng đưa ra thông tin cũng như yêu cầu được lưu trữ bảo mật và được đáp ứng nhu cầu về dịch vụ một cách nhanh chóng và tối ưu nhất </li>
   
-  </ul>
- **OBJECTIVE:** Làm 9 chức năng
-  <ul>
+
+ **OBJECTIVE: ** Làm 9 chức năng
+
   <li>Check in cho khách hàng </li>
   <li> Check out cho khách hàng </li>
   <li> Đặt phòng cho khách hàng:Mỗi phòng có thể được đặt/ở bởi nhiều khách hàng khác nhau tại những thời điểm khác nhau; Mỗi khách hàng có thể đặt/ở nhiều phòng khác nhau tại những thời điểm khác nhau; Tại một thời điểm, chỉ có một khách ở trong một phòng, và xác định một giá phòng cụ thể.Khách hàng chỉ có thể đặt phòng nếu phòng đó còn trống trong suốt thời gian khách hàng muốn đặt  </li>
