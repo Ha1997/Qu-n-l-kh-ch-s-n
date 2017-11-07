@@ -1,4 +1,4 @@
-**GOALS:** Xây dựng phần mềm Quản lí khách sạn để quản lí các hoạt động của khách sạn, dễ dàng đưa ra các định hướng mới cho sự phát triển hoạt động của khách sạn.
+#GOALS: Xây dựng phần mềm Quản lí khách sạn để quản lí các hoạt động của khách sạn, dễ dàng đưa ra các định hướng mới cho sự phát triển hoạt động của khách sạn.
 <ul> 
   <li> 	Phần mềm dạng ứng dụng cho máy tính cá nhân, có kết nối với máy chủ, chỉ có nhân viên lễ tân, nhân viên bán hàng và quản lí khách sạn mới được quyền truy cập và sử dụng </li>
   <li>	Phần mềm được xây dựng ra nhằm lưu lại toàn bộ thông tin của khách hàng đã từng giao dịch của khách sạn và thông tin của chính khách sạn </li>
@@ -8,7 +8,7 @@
   <li> Phần mềm giúp khách hàng đưa ra thông tin cũng như yêu cầu được lưu trữ bảo mật và được đáp ứng nhu cầu về dịch vụ một cách nhanh chóng và tối ưu nhất </li>
  </ul> 
 
- **OBJECTIVE: ** Làm 9 chức năng
+ #OBJECTIVE:  Làm 9 chức năng
 <ul>
   <li>Check in cho khách hàng </li>
   <li> Check out cho khách hàng </li>
